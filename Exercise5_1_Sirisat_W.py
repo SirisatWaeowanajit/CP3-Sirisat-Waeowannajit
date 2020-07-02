@@ -1,0 +1,7 @@
+# CP3-Sirisat-Waeowannajit
+a = int(input())
+b = int(input())
+print(a,"+",b,"=",a+b)
+print(a,"-",b,"=",a-b)
+print(a,"*",b,"=",a*b)
+print(a,"/",b,"=",int(a/b))
